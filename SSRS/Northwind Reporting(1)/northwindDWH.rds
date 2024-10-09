@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="northwindDWH">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=.;Initial Catalog=HiNorthwind</ConnectString>
+    <IntegratedSecurity>true</IntegratedSecurity>
+    <Prompt>Specify a user name and password for data source northwindDWH</Prompt>
+  </ConnectionProperties>
+  <DataSourceID>8c83e5a2-8623-4854-af09-c5de1b6d25c7</DataSourceID>
+</RptDataSource>

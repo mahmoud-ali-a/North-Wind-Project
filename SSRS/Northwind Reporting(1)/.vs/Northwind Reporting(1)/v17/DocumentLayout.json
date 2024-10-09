@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ITI Power BI\\Final Project\\Northwind Reporting(1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC8489A-294B-4367-A5C0-ABDF48CB8669}|Northwind Reporting(1).rptproj|F:\\ITI Power BI\\Final Project\\Northwind Reporting(1)\\Customers Orders.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{8CC8489A-294B-4367-A5C0-ABDF48CB8669}|Northwind Reporting(1).rptproj|solutionrelative:Customers Orders.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC8489A-294B-4367-A5C0-ABDF48CB8669}|Northwind Reporting(1).rptproj|F:\\ITI Power BI\\Final Project\\Northwind Reporting(1)\\Employee Performance.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{8CC8489A-294B-4367-A5C0-ABDF48CB8669}|Northwind Reporting(1).rptproj|solutionrelative:Employee Performance.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC8489A-294B-4367-A5C0-ABDF48CB8669}|Northwind Reporting(1).rptproj|F:\\ITI Power BI\\Final Project\\Northwind Reporting(1)\\ProductDetails.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{8CC8489A-294B-4367-A5C0-ABDF48CB8669}|Northwind Reporting(1).rptproj|solutionrelative:ProductDetails.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC8489A-294B-4367-A5C0-ABDF48CB8669}|Northwind Reporting(1).rptproj|F:\\ITI Power BI\\Final Project\\Northwind Reporting(1)\\ShipperPerformance.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{8CC8489A-294B-4367-A5C0-ABDF48CB8669}|Northwind Reporting(1).rptproj|solutionrelative:ShipperPerformance.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC8489A-294B-4367-A5C0-ABDF48CB8669}|Northwind Reporting(1).rptproj|F:\\ITI Power BI\\Final Project\\Northwind Reporting(1)\\Supplier_Info.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{8CC8489A-294B-4367-A5C0-ABDF48CB8669}|Northwind Reporting(1).rptproj|solutionrelative:Supplier_Info.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Supplier_Info.rdl [Design]",
+              "DocumentMoniker": "F:\\ITI Power BI\\Final Project\\Northwind Reporting(1)\\Supplier_Info.rdl",
+              "RelativeDocumentMoniker": "Supplier_Info.rdl",
+              "ToolTip": "F:\\ITI Power BI\\Final Project\\Northwind Reporting(1)\\Supplier_Info.rdl [Design]",
+              "RelativeToolTip": "Supplier_Info.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-03T09:23:31.149Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShipperPerformance.rdl [Design]",
+              "DocumentMoniker": "F:\\ITI Power BI\\Final Project\\Northwind Reporting(1)\\ShipperPerformance.rdl",
+              "RelativeDocumentMoniker": "ShipperPerformance.rdl",
+              "ToolTip": "F:\\ITI Power BI\\Final Project\\Northwind Reporting(1)\\ShipperPerformance.rdl [Design]",
+              "RelativeToolTip": "ShipperPerformance.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-03T09:16:00.834Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDetails.rdl [Design]",
+              "DocumentMoniker": "F:\\ITI Power BI\\Final Project\\Northwind Reporting(1)\\ProductDetails.rdl",
+              "RelativeDocumentMoniker": "ProductDetails.rdl",
+              "ToolTip": "F:\\ITI Power BI\\Final Project\\Northwind Reporting(1)\\ProductDetails.rdl [Design]",
+              "RelativeToolTip": "ProductDetails.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-03T09:11:14.498Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee Performance.rdl [Design]",
+              "DocumentMoniker": "F:\\ITI Power BI\\Final Project\\Northwind Reporting(1)\\Employee Performance.rdl",
+              "RelativeDocumentMoniker": "Employee Performance.rdl",
+              "ToolTip": "F:\\ITI Power BI\\Final Project\\Northwind Reporting(1)\\Employee Performance.rdl [Design]",
+              "RelativeToolTip": "Employee Performance.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-03T08:51:43.442Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customers Orders.rdl [Design]",
+              "DocumentMoniker": "F:\\ITI Power BI\\Final Project\\Northwind Reporting(1)\\Customers Orders.rdl",
+              "RelativeDocumentMoniker": "Customers Orders.rdl",
+              "ToolTip": "F:\\ITI Power BI\\Final Project\\Northwind Reporting(1)\\Customers Orders.rdl [Design]",
+              "RelativeToolTip": "Customers Orders.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-03T08:18:48.716Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
